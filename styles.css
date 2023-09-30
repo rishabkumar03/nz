@@ -1,0 +1,137 @@
+body {
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 10px black;
+    margin-top: 70px;
+    background-image: url(nz.jpg);
+    background-size: cover;
+    font-family: 'Croissant One', cursive;
+}
+
+#ne {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid whitesmoke;
+    margin: 30px 10px;
+}
+
+#currency {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid whitesmoke;
+    margin: 30px 10px;
+}
+
+#map {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid whitesmoke;
+    margin: 30px 10px;
+}
+
+.fun {
+    color: azure;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.touristic {
+    color: aliceblue ;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px aquamarine;
+
+}
+
+.well {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#Wellington {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+#Picton {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+#Pancake-Mountains {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+#Fox-Glacier {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+#Cook {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+#Milford-Sound {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+#Taranaki {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+#Auckland {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    margin: 10px 5px;
+}
+
+footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
